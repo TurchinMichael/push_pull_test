@@ -6,4 +6,5 @@ ctrl+s
 git add .\readme.md
 git commit -m "sdfs"
 git push -u origin maingit pull
-test pull
+
+test pull (caution! before pull need commit)
